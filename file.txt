@@ -7,3 +7,6 @@ git add.
 git commit-m(meana message) "new file corrupted"
 git config  --global.user.email "youremailid"
 git config --global user.name "your name"
+git log
+git diff
+
