@@ -10,3 +10,11 @@ git config --global user.name "your name"
 git log
 git diff
 
+
+Branch
+git Branch
+git branch second-branch(for creating a new branch)
+git checkout branch name(for using that second branch)
+
+
+

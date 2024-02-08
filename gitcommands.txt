@@ -5,3 +5,7 @@ git status
 git add (filename.txt)
 git status
 git diff
+know exactly whaat you have changed
+git ls-files
+git rm filename(remove this file from staging area and from local directry)
+git rm --cached filename(you want to keep the file in your hard disk but you dont want git to track this file)
