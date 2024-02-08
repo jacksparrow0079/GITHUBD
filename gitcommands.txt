@@ -1,0 +1,6 @@
+Git basic commands
+git status
+git init
+git status
+git add (filename.txt)
+git status
