@@ -1,0 +1,9 @@
+hello git
+git status
+git init(init a new repository in local directory)
+git and filename()
+git add.
+(add all untracked files and changes to staging area)
+git commit-m(meana message) "new file corrupted"
+git config  --global.user.email "youremailid"
+git config --global user.name "your name"
